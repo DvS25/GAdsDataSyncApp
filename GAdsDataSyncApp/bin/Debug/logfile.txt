@@ -1,0 +1,132 @@
+Date: 02-07-2022 11:49:26,   Log: Service is started.
+
+Date: 02-07-2022 11:50:02,   Log: Configuration settings are updated.
+
+Date: 02-07-2022 11:50:02,   Log: Service is started.
+
+Date: 02-07-2022 11:50:51,   Log: Service is closed.
+
+Date: 02-07-2022 12:43:32,   Log: Service is started.
+
+Date: 02-07-2022 12:44:00,   Log: Configuration settings are updated.
+
+Date: 02-07-2022 12:44:01,   Log: Service is started.
+
+Date: 02-07-2022 12:44:09,   Log: Service is closed.
+
+Date: 02-07-2022 12:44:18,   Log: Service is started.
+
+Date: 02-07-2022 12:45:50,   Log: Service is started.
+
+Date: 02-07-2022 12:46:34,   Log: Service is closed.
+
+Date: 02-07-2022 12:56:33,   Log: Service is started.
+
+Date: 02-07-2022 12:57:54,   Log: Service is closed.
+
+Date: 02-07-2022 14:18:28,   Log: Service is started.
+
+Date: 02-07-2022 14:20:33,   Log: Configuration settings are updated.
+
+Date: 02-07-2022 14:20:34,   Log: Service is started.
+
+Date: 02-07-2022 14:21:36,   Log: Configuration settings are updated.
+
+Date: 02-07-2022 14:21:37,   Log: Service is started.
+
+Date: 02-07-2022 14:23:34,   Log: Google Ads data manual synchronization is started.
+
+Date: 02-07-2022 14:23:44,   Log: Records are updated to database.
+
+Date: 02-07-2022 14:23:45,   Log: Records are updated to database.
+
+Date: 02-07-2022 14:23:45,   Log: Google Ads data manual synchronization is ended.
+
+Date: 02-07-2022 15:00:00,   Log: Google Ads data auto synchronization is started.
+
+Date: 02-07-2022 15:00:02,   Log: Records are updated to database.
+
+Date: 02-07-2022 15:00:03,   Log: Records are updated to database.
+
+Date: 02-07-2022 15:00:03,   Log: Google Ads data auto synchronization is ended.
+
+Date: 02-07-2022 15:03:38,   Log: Service is closed.
+
+Date: 02-07-2022 16:04:49,   Log: Service is started.
+
+Date: 02-07-2022 16:05:25,   Log: Service is closed.
+
+Date: 02-07-2022 16:05:52,   Log: Service is started.
+
+Date: 02-07-2022 16:06:25,   Log: Service is closed.
+
+Date: 04-07-2022 10:09:37,   Log: Application is started.
+
+Date: 04-07-2022 10:09:38,   Log: Service timer is started.
+
+Date: 04-07-2022 10:09:49,   Log: Google Ads data manual synchronization is started.
+
+Date: 04-07-2022 10:09:59,   Log: One or more errors occurred.
+
+Date: 04-07-2022 10:10:42,   Log: Application is started.
+
+Date: 04-07-2022 10:10:42,   Log: Service timer is started.
+
+Date: 04-07-2022 10:11:01,   Log: Google Ads data manual synchronization is started.
+
+Date: 04-07-2022 11:22:34,   Log: Application is started.
+
+Date: 04-07-2022 11:22:35,   Log: Service timer is started.
+
+Date: 04-07-2022 11:23:58,   Log: Configuration settings are updated.
+
+Date: 04-07-2022 11:23:59,   Log: Application is started.
+
+Date: 04-07-2022 11:23:59,   Log: Service timer is started.
+
+Date: 04-07-2022 11:24:42,   Log: Service timer is stopped.
+
+Date: 04-07-2022 11:24:42,   Log: Application is closed.
+
+Date: 04-07-2022 11:26:38,   Log: Application is started.
+
+Date: 04-07-2022 11:26:38,   Log: Service timer is started.
+
+Date: 04-07-2022 11:26:49,   Log: Google Ads data manual synchronization is started.
+
+Date: 04-07-2022 11:26:54,   Log: 2 records found from the google ads api.
+
+Date: 04-07-2022 12:49:14,   Log: Application is started.
+
+Date: 04-07-2022 12:49:15,   Log: Service timer is started.
+
+Date: 04-07-2022 12:50:51,   Log: Configuration settings are updated.
+
+Date: 04-07-2022 12:50:52,   Log: Application is started.
+
+Date: 04-07-2022 12:50:52,   Log: Service timer is started.
+
+Date: 04-07-2022 12:51:01,   Log: Google Ads data manual synchronization is started.
+
+Date: 04-07-2022 12:51:06,   Log: 2 records found from the google ads api.
+
+Date: 04-07-2022 12:51:09,   Log: DB Error: Unable to connect to any of the specified MySQL hosts.
+
+Date: 04-07-2022 12:51:13,   Log: DB Error: Unable to connect to any of the specified MySQL hosts.
+
+Date: 04-07-2022 12:51:13,   Log: Google Ads data manual synchronization is ended.
+
+Date: 04-07-2022 12:51:50,   Log: Google Ads data manual synchronization is started.
+
+Date: 04-07-2022 12:51:51,   Log: 2 records found from the google ads api.
+
+Date: 04-07-2022 12:51:52,   Log: 1 Record updated to database.
+
+Date: 04-07-2022 12:51:53,   Log: 1 Record updated to database.
+
+Date: 04-07-2022 12:51:53,   Log: Google Ads data manual synchronization is ended.
+
+Date: 04-07-2022 12:53:19,   Log: Service timer is stopped.
+
+Date: 04-07-2022 12:53:19,   Log: Application is closed.
+

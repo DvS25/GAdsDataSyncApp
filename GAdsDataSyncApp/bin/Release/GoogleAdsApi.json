@@ -1,0 +1,15 @@
+﻿{
+  "ProxyServer": "",
+  "ProxyUser": "",
+  "ProxyPassword": "",
+  "ProxyDomain": "",
+
+  "DeveloperToken": "",
+
+  "OAuth2ClientId": "",
+  "OAuth2ClientSecret": "",
+  "OAuth2Mode": "APPLICATION",
+  "OAuth2RefreshToken": "",
+  
+  "LoginCustomerId": ""
+}
